@@ -1,0 +1,108 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "John Snow",
+      "gorillaness": "90",
+      "technologies": [
+        "Java",
+        "React"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Daenerys Targaryen",
+      "gorillaness": "90",
+      "technologies": [
+        ".net",
+        "angular"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Senku Ishigami",
+      "gorillaness": "300",
+      "technologies": [
+        ".net",
+        "angular",
+        "Java",
+        "React",
+        "Vue",
+        "NodeJS",
+        "Cobol",
+        "Abap"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lina Inverse",
+      "gorillaness": "85",
+      "technologies": [
+        ".net",
+        "VueJS"
+      ]
+    },
+    {
+      "name": "James Moriarty",
+      "gorillaness": "185",
+      "technologies": [
+        "R",
+        "HBase",
+        "C++",
+        "Python"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Sherlock Holmes",
+      "gorillaness": "300",
+      "technologies": [
+        "R",
+        "HBase",
+        "C++",
+        "Python"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Sebastian Lopez",
+      "gorillaness": "400",
+      "technologies": [
+        "R",
+        "HBase",
+        "C++",
+        "Python"
+      ],
+      "id": 7
+    }
+  ],
+  "bandManagers": [
+    {
+      "id": 1,
+      "name": "Snake",
+      "nickName": "Big Boss"
+    },
+    {
+      "id": 2,
+      "name": "Snake",
+      "nickName": "Solid Snake"
+    }
+  ],
+  "snacks": [
+    {
+      "id": 1,
+      "name": "Diet Coke",
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Cookies",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Beer",
+      "quantity": 999
+    }
+  ]
+}

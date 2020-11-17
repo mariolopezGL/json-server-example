@@ -1,0 +1,16 @@
+{
+  "name": "json-server-example",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Mario Lopez",
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "server": "json-server mock/db.json --routes mock/routes.json --id id --port 9000"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "json-server": "^0.16.2"
+  }
+}
